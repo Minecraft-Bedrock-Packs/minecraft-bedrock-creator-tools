@@ -27,7 +27,9 @@ export function generateZip(manifest, structureFiles) {
  * Builds a manifest file for a .mcpack
  * @param {JSON} manifest - Json manifest file.
  */
-export function buildManifest(manifest) {
+export function buildManifest(manifest, title, description) {
+    manifest.header.name = title
+    manifest.header.description = description
     // @ts-ignore
     manifest.header.uuid = crypto.randomUUID()
     // @ts-ignore
