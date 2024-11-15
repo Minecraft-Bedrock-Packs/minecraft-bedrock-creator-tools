@@ -2,8 +2,7 @@
     import {buildManifest, generateZip} from "$lib/builder"
     import manifestJson from "../lib/assets/manifest.json"
     let data: any
-    let taco
-
+    
     let files
 
     const handleFileChange = (event) => {
