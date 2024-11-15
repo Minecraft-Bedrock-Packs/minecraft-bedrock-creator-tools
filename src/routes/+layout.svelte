@@ -3,4 +3,6 @@
 	let { children } = $props();
 </script>
 
-{@render children()}
+<div class="flex flex-col min-h-screen bg-cover bg-center bg-[url('$lib/assets/background.png')]">
+		 {@render children()}
+</div>
