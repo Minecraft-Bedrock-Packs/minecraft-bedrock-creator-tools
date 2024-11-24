@@ -1,18 +1,18 @@
 {
-  "format_version": 1,
-  "header": {
-      "name": "Structure Block Pack",
-      "description": "",
-      "uuid": "",
-      "min_engine_version": [1, 21, 44],
-      "version": [1, 0, 0]
-  },
-  "modules": [
-      {
-          "description": "",
-          "type": "data",
-          "uuid": "",
-          "version": [1, 0, 0]
-      }
-  ]
+	"format_version": 1,
+	"header": {
+		"name": "Structure Block Pack",
+		"description": "",
+		"uuid": "",
+		"min_engine_version": [1, 21, 44],
+		"version": [1, 0, 0]
+	},
+	"modules": [
+		{
+			"description": "",
+			"type": "data",
+			"uuid": "",
+			"version": [1, 0, 0]
+		}
+	]
 }
