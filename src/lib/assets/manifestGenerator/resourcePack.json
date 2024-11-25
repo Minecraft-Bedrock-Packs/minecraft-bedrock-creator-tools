@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+      "description": "Resource pack description",
+      "name": "My Resource Pack",
+      "uuid": "<FIRST GENERATED UUID>",
+      "version": [1, 0, 0],
+      "min_engine_version": [1, 16, 0]
+     },
+    "modules": [
+      {
+        "description": "Resource pack description",
+        "type": "resources",
+        "uuid": "<SECOND GENERATED UUID>",
+        "version": [1, 0, 0]
+      }
+    ]
+}

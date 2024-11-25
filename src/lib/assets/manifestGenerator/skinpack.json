@@ -1,0 +1,15 @@
+{
+    "header": {
+      "name": "",
+      "version": [1, 0, 0],
+      "uuid": ""
+    },
+    "modules": [
+      {
+        "version": [1, 0, 0],
+        "type": "skin_pack",
+        "uuid": ""
+      }
+    ],
+    "format_version": 1
+}

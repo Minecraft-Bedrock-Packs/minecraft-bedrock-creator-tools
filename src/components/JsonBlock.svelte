@@ -4,7 +4,9 @@
 </script>
 
 <code>
-	<textarea spellcheck="false" readonly="false" rows="15" class="form-control shadow">
+	<textarea spellcheck="false" cols="35" readonly="false" rows="15" class={props.class} >
 		{props.json}
 	</textarea>
 </code>
+
+<!-- class="form-control shadow resize" -->
