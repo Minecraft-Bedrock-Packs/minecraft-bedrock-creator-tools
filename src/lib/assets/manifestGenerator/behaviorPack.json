@@ -1,0 +1,19 @@
+{
+    "format_version": 2,
+    "header": {
+      "description": "Pack description",
+      "name": "My Behavior Pack",
+      "uuid": "<FIRST GENERATED UUID>",
+      "version": [1, 0, 0],
+      "min_engine_version": [1, 16, 0]
+    },
+    "modules":
+      [
+        {
+          "description": "Pack description",
+            "type": "data",
+            "uuid": "<SECOND GENERATED UUID>",
+            "version": [1, 0, 0]
+        }
+      ]
+}

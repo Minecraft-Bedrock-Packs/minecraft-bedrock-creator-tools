@@ -1,0 +1,16 @@
+{
+    "header": {
+      "name": "pack.name",
+      "description": "pack.description",
+      "version": [1, 0, 0],
+      "uuid": "<FIRST GENERATED UUID>"
+    },
+    "modules": [
+      {
+        "version": [1, 0, 0],
+        "type": "world_template",
+        "uuid": "<SECOND GENERATED UUID>"
+      }
+    ],
+    "format_version": 2
+}
