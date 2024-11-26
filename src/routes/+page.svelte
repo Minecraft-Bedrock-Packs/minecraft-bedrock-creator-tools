@@ -11,14 +11,13 @@
 		>
 		<a href="/manifestgenerator" class="text-blue-500 hover:underline">Manifest Generator</a>
 	</main>
-	<footer class="mt-8 bg-black text-center text-sm text-gray-500">
+	<footer class="mt-8 text-center text-sm text-gray-500">
 		<a
 			href="https://github.com/Minecraft-Bedrock-Packs/minecraft-bedrock-structure-block-pack-generator-website/tree/main"
 			target="_blank"
 			rel="noopener noreferrer"
-			class="hover:underline"
 		>
-			View on GitHub
+			<button class="bg-gray-800 rounded-lg inline-block p-2 shadow-md transition duration-200 hover:underline">View on GitHub</button>
 		</a>
 	</footer>
 </div>

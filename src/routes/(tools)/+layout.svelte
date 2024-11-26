@@ -4,21 +4,18 @@
 	let { children } = $props();
 </script>
 
-<div
-	class="flex min-h-screen flex-col justify-between p-8 font-[family-name:var(--font-geist-sans)] sm:p-20"
->
+<div class="flex min-h-screen flex-col justify-between p-8">
 	<BackButton />
 	<main class="flex flex-grow flex-col items-center justify-center">
 		{@render children()}
 	</main>
 	<footer class="mt-8 text-center text-sm text-gray-500">
 		<a
-			href="https://github.com/t3dotgg/quickpic"
+			href="https://github.com/Minecraft-Bedrock-Packs/minecraft-bedrock-structure-block-pack-generator-website/tree/main"
 			target="_blank"
 			rel="noopener noreferrer"
-			class="hover:underline"
 		>
-			View on GitHub
+			<button class="bg-gray-800 rounded-lg inline-block p-2 shadow-md transition duration-200 hover:underline">View on GitHub</button>
 		</a>
 	</footer>
 </div>
