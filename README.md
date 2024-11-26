@@ -1,6 +1,8 @@
-# Minecraft Bedrock Structure Block Pack Generator Website
+# Minecraft Bedrock Creator Tools
 
-Upload your .mcstructure files and get a .mcpack file back then you can load into your Minecraft Bedrock worlds and use your custom structure blocks!
+Some useful tools that I created since I am always googling how to do this stuff and finally got too annoyed.
+
+If there are additional tools that you think would be useful, please create an issue.
 
 ## Helpful Resources
 
