@@ -3,6 +3,4 @@
 	let { children } = $props();
 </script>
 
-<div class="bg-[url('$lib/assets/background.png')]">
-	{@render children()}
-</div>
+{@render children()}
